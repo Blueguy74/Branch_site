@@ -1,0 +1,430 @@
+@media screen and (min-width:1366px) and (max-width:1920px)
+{
+
+#left_panel
+{
+    width:900px;
+    position:relative;
+    top:0px;
+    left:0px;
+}
+#left_panel .post
+{
+    width:850px;
+    min-height:500px;
+    margin-top:20px;
+    box-shadow:0px 0px 1px #666;
+    background:white;
+    padding:25px;
+}
+#left_panel .post h1
+{
+    //text-align:center;
+    margin-top:0px;
+    color:#333;
+    font-size:26px;
+}
+#right_panel
+{
+    width:440px;
+    position:absolute;
+    top:40px;
+    right:0px;
+}
+#right_panel .sidebar_item
+{
+    box-shadow:0px 0px 1px #666;
+    width:340px;
+    min-height:300px;
+    background:white;
+    margin-top:20px;
+    padding:20px;
+    position:relative;
+}
+#right_panel .sidebar_item .pin
+{
+    position:absolute;
+    top:-30px;
+    right:-25px;
+}
+#right_panel .sidebar_item .badge
+{
+    position:absolute;
+    top:-5px;
+    right:10px;
+    background:url('../images/badge.png');
+    height:45px;
+    width:45px;
+    background-position: 0px 270px;
+}
+#right_panel .sidebar_item h1
+{
+    //text-align:center;
+    font-size:20px;
+    margin-top:0px;
+    color:#333;
+}
+
+}
+
+@media screen and (min-width:1200px) and (max-width:1366px)
+{
+
+#left_panel
+{
+    width:800px;
+    position:relative;
+    top:0px;
+    left:0px;
+}
+#left_panel .post
+{
+    width:750px;
+    min-height:500px;
+    margin-top:20px;
+    box-shadow:0px 0px 1px #666;
+    background:white;
+    padding:25px;
+}
+#left_panel .post h1
+{
+    //text-align:center;
+    margin-top:0px;
+    color:#333;
+    font-size:26px;
+}
+#right_panel
+{
+    width:320px;
+    position:absolute;
+    top:40px;
+    right:0px;
+}
+#right_panel .sidebar_item
+{
+    box-shadow:0px 0px 1px #666;
+    width:220px;
+    min-height:300px;
+    background:white;
+    margin-top:20px;
+    padding:20px;
+    position:relative;
+}
+#right_panel .sidebar_item .pin
+{
+    position:absolute;
+    top:-30px;
+    right:-25px;
+}
+#right_panel .sidebar_item .badge
+{
+    position:absolute;
+    top:-5px;
+    right:10px;
+    background:url('../images/badge.png');
+    height:45px;
+    width:45px;
+    background-position: 0px 270px;
+}
+#right_panel .sidebar_item h1
+{
+    //text-align:center;
+    font-size:20px;
+    margin-top:0px;
+    color:#333;
+}
+
+}
+
+
+
+@media screen and (min-width:1024px) and (max-width:1200px)
+{
+
+    #left_panel
+    {
+        width:768px;
+        position:relative;
+        top:0px;
+        left:0px;
+    }
+    #left_panel .post
+    {
+        width:690px;
+        min-height:500px;
+        margin-top:20px;
+        box-shadow:0px 0px 1px #666;
+        background:white;
+        padding:25px;
+    }
+    #left_panel .post h1
+    {
+    //text-align:center;
+        margin-top:0px;
+        color:#333;
+        font-size:26px;
+    }
+    #right_panel
+    {
+        width:260px;
+        position:absolute;
+        top:40px;
+        right:0px;
+    }
+    #right_panel .sidebar_item
+    {
+        box-shadow:0px 0px 1px #666;
+        width:193px;
+        min-height:300px;
+        background:white;
+        margin-top:20px;
+        padding:20px;
+        position:relative;
+    }
+    #right_panel .sidebar_item .pin
+    {
+        position:absolute;
+        top:-20px;
+        right:-20px;
+    }
+    #right_panel .sidebar_item .badge
+    {
+        position:absolute;
+        top:-5px;
+        right:10px;
+        background:url('../images/badge.png');
+        height:45px;
+        width:45px;
+        background-position: 0px 270px;
+    }
+    #right_panel .sidebar_item h1
+    {
+    //text-align:center;
+        font-size:20px;
+        margin-top:0px;
+        color:#333;
+    }
+
+}
+
+
+@media screen and (min-width:720px) and (max-width:1024px)
+{
+
+    #left_panel
+    {
+        width:720px;
+        position:relative;
+        top:0px;
+        left:0px;
+    }
+    #left_panel .post
+    {
+        width:670px;
+        min-height:500px;
+        margin-top:20px;
+        box-shadow:0px 0px 1px #666;
+        background:white;
+        padding:25px;
+    }
+    #left_panel .post h1
+    {
+    //text-align:center;
+        margin-top:0px;
+        color:#333;
+        font-size:26px;
+    }
+    #right_panel
+    {
+        width:720px;
+        position:relative;
+        top:40px;
+        right:0px;
+    }
+    #right_panel .sidebar_item
+    {
+        box-shadow:0px 0px 1px #666;
+        width:295px;
+        min-height:300px;
+        background:white;
+        margin:20px 10px 20px 10px;
+        padding:20px;
+        position:relative;
+        display:inline-block;
+
+    }
+    #right_panel .sidebar_item .pin
+    {
+        position:absolute;
+        top:-20px;
+        right:-20px;
+    }
+    #right_panel .sidebar_item .badge
+    {
+        position:absolute;
+        top:-5px;
+        right:10px;
+        background:url('../images/badge.png');
+        height:45px;
+        width:45px;
+        background-position: 0px 270px;
+    }
+    #right_panel .sidebar_item h1
+    {
+    //text-align:center;
+        font-size:20px;
+        margin-top:0px;
+        color:#333;
+    }
+
+}
+
+
+
+@media screen and (min-width:480px) and (max-width:720px)
+{
+
+    #left_panel
+    {
+        width:100%;
+        position:relative;
+        top:0px;
+        left:0px;
+        text-align:left;
+    }
+    #left_panel .post
+    {
+        width:96%;
+        height:80%;
+        min-height:50%x;
+        margin-top:20px;
+        box-shadow:0px 0px 1px #666;
+        background:white;
+        padding:2%;
+    }
+    #left_panel .post h1
+    {
+        margin-top:0px;
+        color:#333;
+        font-size:22px;
+        text-align:left;
+    }
+    #right_panel
+    {
+        width:100%;
+        position:relative;
+        top:40px;
+        right:0px;
+    }
+    #right_panel .sidebar_item
+    {
+        box-shadow:0px 0px 1px #666;
+        width:43.5%;
+        min-height:40%;
+        background:white;
+        margin-top:20px;
+        padding:2%;
+        position:relative;
+        display:inline-block;
+        margin:2% 1% 2% 1%;
+    }
+    #right_panel .sidebar_item .pin
+    {
+        position:absolute;
+        top:-20px;
+        right:-20px;
+    }
+    #right_panel .sidebar_item .badge
+    {
+        position:absolute;
+        top:-5px;
+        right:10px;
+        background:url('../images/badge.png');
+        height:45px;
+        width:45px;
+        background-position: 0px 270px;
+    }
+    #right_panel .sidebar_item h1
+    {
+    //text-align:center;
+        font-size:20px;
+        margin-top:0px;
+        color:#333;
+    }
+
+
+}
+
+
+@media screen and (max-width:480px)
+{
+
+    #left_panel
+    {
+        width:100%;
+        position:relative;
+        top:0px;
+        left:0px;
+        text-align:left;
+    }
+    #left_panel .post
+    {
+        width:96%;
+        height:80%;
+        min-height:50%x;
+        margin-top:20px;
+        box-shadow:0px 0px 1px #666;
+        background:white;
+        padding:2%;
+    }
+    #left_panel .post h1
+    {
+        margin-top:0px;
+        color:#333;
+        font-size:22px;
+        text-align:left;
+    }
+    #right_panel
+    {
+        width:100%;
+        position:relative;
+        top:40px;
+        right:0px;
+    }
+    #right_panel .sidebar_item
+    {
+        box-shadow:0px 0px 1px #666;
+        width:92%;
+        min-height:40%;
+        background:white;
+        margin-top:20px;
+        padding:4%;
+        position:relative;
+        display:inline-block;
+    }
+    #right_panel .sidebar_item .pin
+    {
+        position:absolute;
+        top:-20px;
+        right:-20px;
+    }
+    #right_panel .sidebar_item .badge
+    {
+        position:absolute;
+        top:-5px;
+        right:10px;
+        background:url('../images/badge.png');
+        height:45px;
+        width:45px;
+        background-position: 0px 270px;
+    }
+    #right_panel .sidebar_item h1
+    {
+    //text-align:center;
+        font-size:20px;
+        margin-top:0px;
+        color:#333;
+    }
+
+
+}

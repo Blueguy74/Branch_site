@@ -1,0 +1,421 @@
+body
+{
+    background:#ebeaea;
+    margin:0px;
+    font-family:calibri;
+}
+
+@media screen and (min-width:1366px) and (max-width:1920px)
+{
+
+#container
+{
+    width:1366px;
+    position:relative;
+}
+#main_content
+{
+    padding:40px 0px 40px 0px;
+    position:relative;
+}
+#header
+{
+    width:1366px;
+    height:150px;
+}
+#header #logo
+{
+    margin-top:20px;
+    height:100px;
+}
+#header #translator
+{
+    position:absolute;
+    top:25px;
+    right:0px;
+    background:white;
+    padding:15px;
+}
+#header #translator h1
+{
+    color:#333;
+    font-size:18px;
+    margin-top:0px;
+}
+#menu
+{
+    width:1366px;
+    height:50px;
+    background: #333;
+}
+#menu_title
+{
+    display:none;
+}
+#menu a
+{
+    text-decoration: none;
+    color:white;
+}
+#menu ul
+{
+    margin:0px;
+    padding:0px;
+}
+#menu li{
+    list-style-type: none;
+    float:left;
+    display:block;
+    color:white;
+    margin:10px 25px 10px 25px;
+    font-size:20px;
+    font-family: calibri;
+}
+#footer
+{
+    width:100%;
+    background:#333;
+    height:180px;
+    clear:both;
+    display:block;
+    margin-top:40px;
+}
+
+}
+
+
+@media screen and (min-width:1200px) and (max-width:1366px)
+{
+
+#container
+{
+    width:1200px;
+    position:relative;
+}
+#main_content
+{
+    padding:40px 0px 40px 0px;
+    position:relative;
+}
+#header
+{
+    width:1200px;
+    height:150px;
+}
+#header #logo
+{
+    margin-top:20px;
+    height:100px;
+}
+#header #translator
+{
+    position:absolute;
+    top:25px;
+    right:0px;
+    background:white;
+    padding:15px;
+}
+#header #translator h1
+{
+    color:#333;
+    font-size:18px;
+    margin-top:0px;
+}
+#menu
+{
+    width:1200px;
+    height:50px;
+    background: #333;
+}
+#menu_title
+{
+    display:none;
+}
+#menu a
+{
+    text-decoration: none;
+    color:white;
+}
+#menu ul
+{
+    margin:0px;
+    padding:0px;
+}
+#menu li{
+    list-style-type: none;
+    float:left;
+    display:block;
+    color:white;
+    margin:10px 25px 10px 25px;
+    font-size:20px;
+    font-family: calibri;
+}
+#footer
+{
+    width:100%;
+    background:#333;
+    height:180px;
+    clear:both;
+    display:block;
+    margin-top:40px;
+}
+
+}
+
+
+@media screen and (min-width:1024px) and (max-width:1200px)
+{
+
+    #container
+    {
+        width:1024px;
+        position:relative;
+    }
+    #main_content
+    {
+        padding:40px 0px 40px 0px;
+        position:relative;
+    }
+    #header
+    {
+        width:1024px;
+        height:150px;
+    }
+    #header #logo
+    {
+        margin-top:20px;
+        height:100px;
+    }
+    #header #translator
+    {
+        position:absolute;
+        top:25px;
+        right:0px;
+        background:white;
+        padding:15px;
+    }
+    #header #translator h1
+    {
+        color:#333;
+        font-size:18px;
+        margin-top:0px;
+    }
+    #menu
+    {
+        width:1024px;
+        height:50px;
+        background: #333;
+    }
+    #menu_title
+    {
+        display:none;
+    }
+    #menu a
+    {
+        text-decoration: none;
+        color:white;
+    }
+    #menu ul
+    {
+        margin:0px;
+        padding:0px;
+    }
+    #menu li{
+        list-style-type: none;
+        float:left;
+        display:block;
+        color:white;
+        margin:10px 25px 10px 25px;
+        font-size:20px;
+        font-family: calibri;
+    }
+    #footer
+    {
+        width:100%;
+        background:#333;
+        height:180px;
+        clear:both;
+        display:block;
+        margin-top:40px;
+    }
+
+}
+
+
+@media screen and (min-width:720px) and (max-width:1024px)
+{
+
+    #container
+    {
+        width:720px;
+        position:relative;
+    }
+    #main_content
+    {
+        padding:20px 0px 20px 0px;
+        position:relative;
+    }
+    #header
+    {
+        width:720px;
+        height:120px;
+    }
+    #header #logo
+    {
+        height:100px;
+    }
+    #header #translator
+    {
+        position:absolute;
+        top:15px;
+        right:0px;
+        background:white;
+        padding:15px;
+    }
+    #header #translator h1
+    {
+        color:#333;
+        font-size:15px;
+        margin-top:0px;
+    }
+    #menu
+    {
+        width:720px;
+        height:50px;
+        background: #333;
+    }
+    #menu_title
+    {
+        display:none;
+    }
+    #menu a
+    {
+        text-decoration: none;
+        color:white;
+    }
+    #menu ul
+    {
+        margin:0px;
+        padding:0px;
+    }
+    #menu li{
+        list-style-type: none;
+        float:left;
+        display:block;
+        color:white;
+        margin:10px 15px 10px 15px;
+        font-size:18px;
+        font-family: calibri;
+    }
+    #footer
+    {
+        width:100%;
+        background:#333;
+        height:180px;
+        clear:both;
+        display:block;
+        margin-top:40px;
+    }
+
+}
+
+
+@media screen and (max-width:720px)
+{
+
+    #container
+    {
+        width:100%;
+        position:relative;
+    }
+    #main_content
+    {
+        padding:4%;
+        position:relative;
+        width:92%;
+    }
+    #header
+    {
+        width:100%;
+        height:120px;
+    }
+    #header #logo
+    {
+        height:100px;
+        position:relative
+    }
+    #header #translator
+    {
+        position:absolute;
+        top:15px;
+        right:0px;
+        background:white;
+        padding:15px;
+        display:none;
+    }
+    #header #translator h1
+    {
+        color:#333;
+        font-size:15px;
+        margin-top:0px;
+    }
+    #menu
+    {
+        position:absolute;
+        display:none;
+        width:100%;
+        left:0px;
+        height:0px;
+        background: #333;
+        z-index:10;
+    }
+    #menu_title
+    {
+        background:#333;
+        width:96%;
+        padding:2%;
+        color:white;
+        font-size:18px;
+        font-weight:bold;
+        text-align:center;
+    }
+    a
+    {
+        text-decoration: none;
+    }
+    #menu a
+    {
+        text-decoration: none;
+        color:white;
+    }
+    #menu ul
+    {
+        margin:0px;
+        padding:0px;
+    }
+    #menu li{
+        list-style-type: none;
+        color:white;
+        padding:1%;
+        font-size:15px;
+        font-family: calibri;
+        background: black;
+        border-top:1px solid #666;
+    }
+    #menu li:hover
+    {
+        background:#666;
+    }
+    #footer
+    {
+        width:100%;
+        background:#333;
+        height:180px;
+        clear:both;
+        display:block;
+        margin-top:40px;
+    }
+
+}
+
+
